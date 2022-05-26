@@ -1,0 +1,5 @@
+para 
+clonar git clone
+
+para ver status
+git status
